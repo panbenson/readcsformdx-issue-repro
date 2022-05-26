@@ -1,0 +1,16 @@
+{
+  "name": "readcsformdx-issue-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@storybook/csf-tools": "^6.5.5",
+    "@storybook/mdx2-csf": "^0.0.3"
+  },
+  "devDependencies": {
+    "jest": "^26.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
